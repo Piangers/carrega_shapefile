@@ -7,7 +7,7 @@
 # This file should be included when you package your plugin.# Mandatory items:
 
 [general]
-name=Fechar linhas
+name=Carrega_ShapeFiles
 qgisMinimumVersion=2.0
 description=ferramenta
 version=0.1
@@ -30,7 +30,7 @@ tags=python
 
 homepage=http://homepage
 category=Plugins
-icon=b.png
+icon=ac.png
 # experimental flag
 experimental=True
 

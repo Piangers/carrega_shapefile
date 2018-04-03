@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from fechar_linha import FecharLinha
+from carregapasta import CarregaPasta
 
-def classFactory(iface):
-    return FecharLinha(iface)
+def classFactory(iface): 
+    return CarregaPasta(iface)
