@@ -1,5 +1,5 @@
 <RCC>
-    <qresource prefix="/plugins/Suavizacao" >
+    <qresource prefix="/plugins/CarregaPasta" >
         <file>ac.png</file>
     </qresource>
 </RCC>

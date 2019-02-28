@@ -8,7 +8,8 @@
 
 [general]
 name=Carrega_ShapeFiles
-qgisMinimumVersion=2.0
+qgisMinimumVersion=2.99
+qgisMaximumVersion=3.99
 description=ferramenta
 version=0.1
 author=piangers
